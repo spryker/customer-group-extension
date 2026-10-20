@@ -1,0 +1,5 @@
+{
+    "include": {
+        "spryker/symfony": "spryker/symfony provides Symfony\\Component\\Form\\FormBuilderInterface."
+    }
+}
