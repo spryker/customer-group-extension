@@ -1,5 +1,6 @@
 {
     "include": {
-        "spryker/symfony": "spryker/symfony provides Symfony\\Component\\Form\\FormBuilderInterface."
+        "spryker/symfony": "spryker/symfony provides Symfony\\Component\\Form\\FormBuilderInterface.",
+        "spryker/transfer": "Provides transfer objects definition with strict types."
     }
 }
